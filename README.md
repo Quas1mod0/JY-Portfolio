@@ -6,7 +6,7 @@ Welcome to my online portfolio! I will show you the most interesting projects I 
 
 ## About Me
 
-Hello! I'm Eric, a student in the Telling Stories with Data course. I am a second-year graduate student at the Heinz College's Public Policy and Management program. I am planning to be a consultant after I finish the study at Heinz. The reason is that I find meeting different people from various industries fascinating. Also, being a consultant will push me to keep learning about new business, people, and innovations around the globe. I  think keep learning is the best way to stay young.
+Hello! I'm Eric, a student in the Telling Stories with Data course. I am a second-year graduate student at the Heinz College's Public Policy and Management program. Before coming to Pittsburgh, I went to California for undergraduate study, I majored in Math with a minor in Social Psychology. I am planning to be a consultant after I finish the study at Heinz. The reason is that I find meeting different people from various industries fascinating. Also, being a consultant will push me to keep learning about new business, people, and innovations around the globe. I  think keep learning is the best way to stay young.
 
 ## What I hope to learn
 
