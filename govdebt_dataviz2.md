@@ -27,3 +27,5 @@ In this contour plot, I plotted the ratio of government debt against the year. T
 Source: OECD.org    https://data.oecd.org/gga/general-government-debt.htm
 
 ## Compare and Contrast
+
+The similarity among these three types of charts is that they are all capable of showing the size of government debt ratio of a country. The bar chart can clearly compare the sizes of the data in one year. Readers can directly identify the minimum and maximum of the data. On the other hand, the beeswarm chart is capable of showing the variation of the ratio of every country for every year. However, since there are about 30 countries, the amount of data might be overwhelming for a reader. With the idea of keeping the chart easy to read, I choose the contour plot since it can show the trend of the ratio with combining the countries as a group. Also, I can manipulate the color scheme to convey the trend to my readers. As a result, the contour plot can help the readers to get a better macroeconomic sense of the variation of government debt around the world from 1996 to 2018.
