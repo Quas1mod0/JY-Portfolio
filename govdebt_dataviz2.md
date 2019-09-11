@@ -1,3 +1,4 @@
+# 3 Different Data Visualizations on the Same General Government Debt Data
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.
 
 In this beeswarm plot, the y-axis labels represent different countries from the dataset and the x-axis represents the date, from 1996 to 2018. The radius of the dot represents the general government debt of a particular country in a specific year.
