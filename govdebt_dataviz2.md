@@ -1,5 +1,15 @@
 # 3 Different Data Visualizations on the Same General Government Debt Data
+
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.
+
+In this page, I will show three types of data visualization on the same set of data about general government debt across countries. Then I will compare and contrast the three visualizations.
+
+## DataViz 1: The Bar Chart
+The first data visualization is a bar chart. The y-axis indicates the ratio of a nation’s debt comparing to its GDP in 2015. The x-axis provides the names of the countries. The bars placed in an ascending order with Estonia having the smallest debt ratio and Japan having the largest.
+
+<iframe src="https://data.oecd.org/chart/5FL8" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5FL8" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+
+## DataViz 1: The Beeswarm Chart
 
 In this beeswarm plot, the y-axis labels represent different countries from the dataset and the x-axis represents the date, from 1996 to 2018. The radius of the dot represents the general government debt of a particular country in a specific year.
 
