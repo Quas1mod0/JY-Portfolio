@@ -13,4 +13,4 @@ After that, I showed my draft to some of my classmates. Popular feedback was tha
 ## My Redsign of the Visualiztion
 
 ![](Images/Pregnancy%20Deaths.png)
-[Source: The Columbian](https://www.columbian.com/news/2019/may/07/u-s-pregnancy-deaths-up-and-report-says-most-are-preventable/)
+
