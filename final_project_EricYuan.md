@@ -41,3 +41,19 @@ Also, I will search for data that shows the trend of the American population in 
 
 ## Method and Medium
 For now, I am planning to use shorthand to write a story for this final project. For each element listed in the outline section, I will create a page on shorthand with a couple paragraphs of explanation and some pitures and visualiztions to increase the engagement of the audience. I will explore the use of other data visualization tools as I dive deeper into more data.
+
+## The Story Arc
+![](Images/storyarc.jpg)
+First, I will simply show the chart and let my audience process the visual information for 5 seconds. 
+Each column of the circles will pop up in sequence from left to right to show the change of enrollment percentage in time.
+I will use cicles to represent the data before 2012 and soild circles for data between 2013 and 2019. Moreover, I will use different gray to represent the change in U.S. population and Asian American pupulation.
+I expect readers concern more as they see more data so that the story arc will slope down at the beginning.
+
+Then I will start to explain the history of Asian quota in Ivy League, briefly introduce the article published in 2012, 
+demonstrate its influence, and show my research on the current condition. I think the the audience will keep concer more 
+becasue the quota still exists.
+
+Following that, I will explain how does the media raised social awareness on this issue. The story arc should slope upward
+in this section. 
+
+Finally, my call to action would be we should support not only Asian but all minorities to create a equal academic environment.
