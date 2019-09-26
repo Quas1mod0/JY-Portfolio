@@ -30,8 +30,14 @@ I will use a similar color scheme to differentiate schools and use
 the size of the circle to show the change in the percentage of Asian admission.
 
 ## The Data
-[Source: National Center for Education Statistics](https://nces.ed.gov)
+The 
+[National Center for Education Statistics](https://nces.ed.gov)
+receives the racial enrollment data from American universities each year. 
+In this publicly available website, we can find the necessary data for each university of interest. 
+I will keep exploring this database to find more recent data. 
+Also, I will search for data that shows the trend of the American population in different races.
 
 [The Data in Ron Unz's Article](https://www.theamericanconservative.com/articles/meritocracy-appendices/)
 
 ## Method and Medium
+For now, I am planning to use shorthand to write a story for this final project. For each element listed in the outline section, I will create a page on shorthand with a couple paragraphs of explanation and some pitures and visualiztions to increase the engagement of the audience. I will explore the use of other data visualization tools as I dive deeper into more data.
