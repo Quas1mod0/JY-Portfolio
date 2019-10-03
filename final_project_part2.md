@@ -86,11 +86,11 @@ Once the interviewee agrees to participate,
 I will hand over the wireframe and wait for a couple of minutes for them to read it. 
 Then I will ask the following questions:
  
-**What do you think I am trying to tell?**
+**1. What do you think I am trying to tell?**
 
-**Is there anything confusing?**
+**2. Is there anything confusing?**
 
-**How do you think about my data visualizations? How can I improve it?**
+**3. How do you think about my data visualizations? How can I improve it?**
  
 
 **Wrap up**
