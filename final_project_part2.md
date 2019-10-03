@@ -6,6 +6,7 @@ Also, I plan to tell the story of Asian Quota in Ivy League Colleges from my per
 For the second part of this project, I first made a wireframe and conducted user research. 
 Following that, I revised my outline of this project and edited my wireframe based on the comments from my interviews.
  
+ 
 ## Revised Outline
  
 1.	Elite College Enrollment of Asian Students dropped while the population increased
@@ -16,6 +17,7 @@ Following that, I revised my outline of this project and edited my wireframe bas
 6.	The Silent Asian
 7.	Call of Action
  
+ 
 ## Initial Wireframe
 
 ![](Images/Wireframe1.jpg)
@@ -24,6 +26,7 @@ Following that, I revised my outline of this project and edited my wireframe bas
 
 
 ## Research Protocol
+ 
  
 ### Target audience
 
@@ -34,6 +37,7 @@ who plan to live and work in the United States after their graduation.
 The reason is that it would be easier to motivate educated audience about the issue they should care about. 
 I hope I can help more people be aware of the inequality around us and motivate 
 the silent audience to speak for themselves and their children in the future.
+ 
  
 ### Approach to identify representative individuals to interview
  
@@ -53,15 +57,18 @@ Is the message I tried to convey clear?|What do you think I am trying to tell?
 Is there anything confusing?|
 Improve data visualization| How do you think about my data visualizations? How can I improve it?
 
+
 ### Methods
  
 5-10 minutes interviews with students I randomly came across in Heinz
 Notes
 In-person
  
+ 
 ### The Process
  
 I randomly picked people that I don’t know at the collaboration space and asked if they would take my interview. I showed the volunteers my wireframes and asked for their feedback. After we finished the conversation, I left contact information if they have any questions or interests to view the final project and thank them for the help.
+ 
  
 ### The script
  
@@ -79,13 +86,17 @@ Once the interviewee agrees to participate,
 I will hand over the wireframe and wait for a couple of minutes for them to read it. 
 Then I will ask the following questions:
  
-**What do you think I am trying to tell?
-Is there anything confusing?
-How do you think about my data visualizations? How can I improve it?
+**What do you think I am trying to tell?**
+
+**Is there anything confusing?**
+
+**How do you think about my data visualizations? How can I improve it?**
  
-**Wrap up
+
+**Wrap up**
  
 Thank you so much for your time and that valuable feedback! Do you have any questions for me?
+ 
  
 ### Interview #1
  
@@ -131,6 +142,7 @@ Q:	How do you think about my data visualizations? How can I improve it?
 A:	You can add some labels on the picture of the title page.
  
  
+ 
 ## Findings and Reflections
  
 All of the interviewees seemingly understand the first visualization well, 
@@ -143,6 +155,7 @@ Moreover, the trend of visualization in section 3 is not apparent; an alternativ
  
 Finally, the heading for section 3 is inappropriate. It might be offensive for some people. 
 I should come up with a better and precise title.
+ 
  
 ## Revised Wireframe
 
