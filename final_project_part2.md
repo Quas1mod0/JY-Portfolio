@@ -103,7 +103,7 @@ Q: How do you think about my data visualizations? How can I improve it?
 A: I think it’s fine. But more details can be included, such as the source of the data and the labels.
 
 
-###Interview #2
+### Interview #2
 Q:	What do you think I am trying to tell?
 
 A:	The academic inequality of American elite college admission
