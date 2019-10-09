@@ -15,3 +15,16 @@ In this class, I hope to learn more skills to be a more convincing presenter. My
 
 ## Portfolio
 
+### Sep 11 2019 [Titani Passengers](https://quas1mod0.github.io/JY-Portfolio/Titani_Passengers)
+
+### Sep 11 2019 [Changing Musical Taste](https://quas1mod0.github.io/JY-Portfolio/changing_musical_taste)
+
+### Sep 11 2019 [OECD Data Visualization](https://quas1mod0.github.io/JY-Portfolio/govdebt_dataviz2)
+
+### Sep 18 2019 [Pregnancy Deaths](https://quas1mod0.github.io/JY-Portfolio/Pregnancy_Deaths)
+
+In this assignment, I showed three types of data visualization on the same set of data about general government debt across countries. Then I compared and contrasted the three visualizations.
+
+### Sep 25 2019 [Final Project Part I](https://quas1mod0.github.io/JY-Portfolio/final_project_EricYuan)
+
+### Oct 3  2019 [Final Project Part II](https://quas1mod0.github.io/JY-Portfolio/final_project_part2)
